@@ -8,7 +8,7 @@ Aplikasi Counter modern yang dibangun sebagai proyek pembelajaran transisi dari 
 **[Lihat Aplikasi Langsung](https://kangnova.github.io/react-counter-app-learning/)**
 
 ![Screenshot Aplikasi](./screenshot.png)
-*(Silakan ganti gambar ini dengan screenshot aplikasi Anda sendiri)*
+<!-- (Silakan ganti gambar ini dengan screenshot aplikasi Anda sendiri) -->
 
 ## 📚 Fitur
 *   **Zero Refresh**: Interaktivitas instan tanpa reload halaman (Client Side Rendering).
@@ -42,4 +42,4 @@ npm run dev
 
 ---
 Dibuat dengan ❤️ oleh **Kang Nova**
-(Mentored by Antigravity AI)
+<!-- (Mentored by Antigravity AI) -->
