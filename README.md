@@ -1,16 +1,45 @@
-# React + Vite
+# React Counter App
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplikasi Counter modern yang dibangun sebagai proyek pembelajaran transisi dari PHP ke React.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**[Lihat Aplikasi Langsung](https://kangnova.github.io/react-counter-app-learning/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot Aplikasi](./screenshot.png)
+*(Silakan ganti gambar ini dengan screenshot aplikasi Anda sendiri)*
 
-## React Compiler
+## 📚 Fitur
+*   **Zero Refresh**: Interaktivitas instan tanpa reload halaman (Client Side Rendering).
+*   **State Management**: Menggunakan `useState` hooks.
+*   **Modern UI**: Styling dengan CSS Modules dan Shadow DOM effects.
+*   **Controls**: Tambah, Kurangi, dan Reset.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Teknologi
+*   React 19
+*   Vite 6
+*   JavaScript (ES6+)
+*   CSS3
 
-## Expanding the ESLint configuration
+## 📦 Instalasi Lokal
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Jika Anda ingin menjalankan proyek ini di komputer Anda:
+
+```bash
+# Clone repository
+git clone https://github.com/kangnova/react-counter-app-learning.git
+
+# Masuk ke folder
+cd react-counter-app-learning
+
+# Install dependencies
+npm install
+
+# Jalankan server
+npm run dev
+```
+
+---
+Dibuat dengan ❤️ oleh **Kang Nova**
+(Mentored by Antigravity AI)
